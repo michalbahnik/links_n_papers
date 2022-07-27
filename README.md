@@ -19,6 +19,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 * [Visualizing and Understanding Convolutional Networks (Zeiler, Fergus)](https://arxiv.org/abs/1311.2901)
   * Novel article on visualisation CNN's feature layers in order to get deeper understanding.
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
+  * Model destillation and ensembelling to improve performance.
 
 ## Artifitial Intelligence
 
