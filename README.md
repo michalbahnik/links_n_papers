@@ -28,6 +28,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Model destillation and ensembelling to improve performance.
 * [Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579)
   * Applying new training methods to old networks (ResNet) for baseline methods use.
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385?context=cs)
+  * Effective training of very deep neural networks.
 
 ## Artifitial Intelligence
 
