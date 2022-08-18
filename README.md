@@ -30,6 +30,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Applying new training methods to old networks (ResNet) for baseline methods use.
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385?context=cs)
   * Effective training of very deep neural networks.
+* [Dataset Distillation](https://arxiv.org/abs/1811.10959)
+  * Distilling datasets to fraction of original size to make learning more effective.
 
 ## Artifitial Intelligence
 
