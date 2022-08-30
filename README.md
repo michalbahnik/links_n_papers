@@ -5,6 +5,13 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 ## Machine Learning
 
+### Detection
+
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+  * Single-shot detector approach for real-time object detection.
+* [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+  * Loss function focusing on "hard" examples to improve standard cross-entropy loss.
+
 ### Face Recognition & Identification
 
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://ieeexplore.ieee.org/document/7298682)
