@@ -21,6 +21,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 * [Project DeepSpeech](https://github.com/mozilla/DeepSpeech)
   * Open-source speech-to-text engine by Mozzila.
+* [Whisper](https://github.com/openai/whisper)
+  * OpenAI Automatic Speech recognition in many languages with MIT license.
 
 ### Convolutional Neural Networks
 
