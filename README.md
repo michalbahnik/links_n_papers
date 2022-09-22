@@ -29,6 +29,13 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 * [CBAM: Convolutional Block Attention Module](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
   * Spatial and channel feature attention blocks added to improve convolutions by focusing on features.
   
+### Data generation
+
+* [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+  * Reversed corruption process based data generation from noise.
+* [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+  * Realistic image synthesis based on text input.
+
 ### Miscellaneous
 
 * [Visualizing and Understanding Convolutional Networks (Zeiler, Fergus)](https://arxiv.org/abs/1311.2901)
