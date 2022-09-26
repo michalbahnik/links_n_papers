@@ -48,6 +48,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Effective training of very deep neural networks.
 * [Dataset Distillation](https://arxiv.org/abs/1811.10959)
   * Distilling datasets to fraction of original size to make learning more effective.
+* [NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks](https://arxiv.org/pdf/2208.04448.pdf)
+  * Improve storage efficiency of OpenVDB with nerual network architecture.
 
 ## Artifitial Intelligence
 
