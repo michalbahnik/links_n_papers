@@ -36,6 +36,11 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 * [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
   * Realistic image synthesis based on text input.
 
+### Reinforced learning
+
+* [ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters](https://arxiv.org/abs/2205.01906)
+  * Control policy for athletics learning improved by combining adversal imitation with unsupervised reinforcement learning.
+
 ### Miscellaneous
 
 * [Visualizing and Understanding Convolutional Networks (Zeiler, Fergus)](https://arxiv.org/abs/1311.2901)
