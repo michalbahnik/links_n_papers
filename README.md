@@ -28,6 +28,12 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 * [CBAM: Convolutional Block Attention Module](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
   * Spatial and channel feature attention blocks added to improve convolutions by focusing on features.
+
+### Transformers
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+  * Novel attention based approach to replace convolutional and recurrent networks in NLP. 
+* [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+  * Transformers applied to computer vision with aim to replace convolution.
   
 ### Data generation
 
