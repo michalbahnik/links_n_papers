@@ -61,6 +61,11 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Distilling datasets to fraction of original size to make learning more effective.
 * [NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks](https://arxiv.org/pdf/2208.04448.pdf)
   * Improve storage efficiency of OpenVDB with nerual network architecture.
+  
+### Data processing
+
+* [Color-to-Grayscale: Does the Method Matter in Image Recognition?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3254613/)
+  * Study on the topic of RGB-grayscale algorithms and their influence on ML algorithms.
 
 ## Artifitial Intelligence
 
