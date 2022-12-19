@@ -61,6 +61,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Distilling datasets to fraction of original size to make learning more effective.
 * [NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks](https://arxiv.org/pdf/2208.04448.pdf)
   * Improve storage efficiency of OpenVDB with nerual network architecture.
+* [Can I use this publicly available dataset to build commercial AI software? -- A Case Study on Publicly Available Image Datasets](https://arxiv.org/abs/2111.02374)
+  * Analysis of licenses of common public datasets and it's implication for commercial use.
   
 ### Data processing
 
