@@ -71,6 +71,9 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 ## Artifitial Intelligence
 
+* [Stop using the elbow criterion for k-means and how to choose the number of clusters instead](https://arxiv.org/pdf/2212.12189.pdf)
+  * Elbow method k-means clustering critics with proposal of better methods.
+
 ## Fun stuff
 
  * [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming) 
