@@ -69,6 +69,12 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 * [Color-to-Grayscale: Does the Method Matter in Image Recognition?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3254613/)
   * Study on the topic of RGB-grayscale algorithms and their influence on ML algorithms.
 
+### Data
+  * [Open Images Dataset V7 and Extensions](https://storage.googleapis.com/openimages/web/index.html)
+    * Open source image dataset with various labels (bouncing boxes, text labels, segmentation maps,...).
+    * [More Inclusive Annotations for People](https://opendatalab.com/MIAP)
+      * Extends Open Images wit additional labels for persons to achieve higher ML fairness.
+
 ## Artifitial Intelligence
 
 * [Stop using the elbow criterion for k-means and how to choose the number of clusters instead](https://arxiv.org/pdf/2212.12189.pdf)
