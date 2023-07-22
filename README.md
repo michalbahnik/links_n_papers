@@ -34,6 +34,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Novel attention based approach to replace convolutional and recurrent networks in NLP. 
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
   * Transformers applied to computer vision with aim to replace convolution.
+* [FlashAttention-2: Faster Attention with Better Parallelism](https://tridao.me/publications/flash2/flash2.pdf)
+  * Introduces improved FlashAttention by improving both architecture, but also low-level GPU operations to gain performance.
   
 ### Data generation
 
@@ -54,7 +56,7 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 * [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
   * Model destillation and ensembelling to improve performance.
 * [Revisiting ResNets: Improved Training and Scaling Strategies](https://arxiv.org/abs/2103.07579)
-  * Applying new training methods to old networks (ResNet) for baseline methods use.
+  * Applying new training methods to old networks (ResNet) for baseline methods use. Nicely shows, that some improvements were more of training process, then architecture.
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385?context=cs)
   * Effective training of very deep neural networks.
 * [Dataset Distillation](https://arxiv.org/abs/1811.10959)
@@ -71,7 +73,7 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 ### Data
   * [Open Images Dataset V7 and Extensions](https://storage.googleapis.com/openimages/web/index.html)
-    * Open source image dataset with various labels (bouncing boxes, text labels, segmentation maps,...).
+    * Open source image dataset with various labels (bounding boxes, text labels, segmentation maps,...).
     * [More Inclusive Annotations for People](https://opendatalab.com/MIAP)
       * Extends Open Images wit additional labels for persons to achieve higher ML fairness.
 
