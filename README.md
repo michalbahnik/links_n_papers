@@ -85,7 +85,10 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 ## Free Books
 
  * [Software Engineering at Google](https://abseil.io/resources/swe-book)
-   * Collection of good engineering practices for SW development. Not that much about programming, but also covers team leading etc.
+   * Collection of good engineering practices for SW development. Not that much about programming, but also covers team leading etc
+
+ * [Free Programming Books](https://ebookfoundation.org/f-p-b.html)
+   * Great collection of (4000+) free programming books and courses (2000+).
 
 ## Others
 
