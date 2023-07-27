@@ -81,7 +81,12 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 * [Stop using the elbow criterion for k-means and how to choose the number of clusters instead](https://arxiv.org/pdf/2212.12189.pdf)
   * Elbow method k-means clustering critics with proposal of better methods.
-  
+
+## Free Books
+
+ * [Software Engineering at Google](https://abseil.io/resources/swe-book)
+   * Collection of good engineering practices for SW development. Not that much about programming, but also covers team leading etc.
+
 ## Others
 
  * [Passphrase generator](https://theworld.com/~reinhold/diceware.html)
