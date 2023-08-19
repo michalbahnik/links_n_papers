@@ -90,7 +90,12 @@ Collection of interesting links and papers on several topics like Robotics, Mach
  * [Free Programming Books](https://ebookfoundation.org/f-p-b.html)
    * Great collection of (4000+) free programming books and courses (2000+).
 
-## Others
+## Misc
+
+* [A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards](https://arxiv.org/abs/2308.01074)
+  * Eavesdropping your computer keyboard with smartphone or from videocall is possible!
+
+## Other links
 
  * [Passphrase generator](https://theworld.com/~reinhold/diceware.html)
    * A Passphrase dice-based generator. One of the best ways how to create password-passphrase.
