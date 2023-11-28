@@ -28,6 +28,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 * [CBAM: Convolutional Block Attention Module](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)
   * Spatial and channel feature attention blocks added to improve convolutions by focusing on features.
+* [Mind the Pad -- CNNs can Develop Blind Spots](https://arxiv.org/abs/2010.02178)
+  * A bit hidden, but very interesting paper pointing out overlooked blind spots emerging in training convolutional networks.
 
 ### Transformers
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
