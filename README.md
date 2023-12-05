@@ -38,6 +38,11 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Transformers applied to computer vision with aim to replace convolution.
 * [FlashAttention-2: Faster Attention with Better Parallelism](https://tridao.me/publications/flash2/flash2.pdf)
   * Introduces improved FlashAttention by improving both architecture, but also low-level GPU operations to gain performance.
+ 
+### LLMs
+
+* [LLM Visualization](https://bbycroft.net/llm)
+  * Very illustrative interactive GPT LLM visualisation.
   
 ### Data generation
 
