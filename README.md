@@ -1,6 +1,9 @@
 # Links'n'Papers
 Collection of interesting links and papers on several topics like Robotics, Machine learning, AI and others.
 
+## Years
+* [2024](papers_2024.md)
+
 ## Robotics
 
 ## Machine Learning
