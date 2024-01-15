@@ -2,6 +2,7 @@
 Collection of interesting links and papers on several topics like Robotics, Machine learning, AI and others.
 
 ## Years
+* [2023](papers_2023.md)
 * [2024](papers_2024.md)
 
 ## Robotics
