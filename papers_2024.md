@@ -10,3 +10,5 @@ These papers cought my attention in year 2024.
   * Open-source voice cloning. Zero-shot ross-language.
 * [Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications]()
   * Improving Deformable Convolution v4 (DCNv4) operator, addressing limitations of DCNv3 with improved dynamic property, expressive power, and memory optimization.
+* [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184v1)
+  * Funny paper discovering fractals in neural network training.
