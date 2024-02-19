@@ -12,3 +12,7 @@ These papers cought my attention in year 2024.
   * Improving Deformable Convolution v4 (DCNv4) operator, addressing limitations of DCNv3 with improved dynamic property, expressive power, and memory optimization.
 * [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184v1)
   * Funny paper discovering fractals in neural network training.
+* [Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting](https://paperswithcode.com/paper/lag-llama-towards-foundation-models-for-time)
+  * Foundation model for univariate probabilistic time series forecasting based on a decoder-only transformer architecture that uses lags as covariates.
+* [Learning to Fly in Seconds](https://paperswithcode.com/paper/learning-to-fly-in-seconds)
+  * Asymmetric actor-critic-based architecture coupled with a highly reliable RL-based training paradigm for efficient end-to-end quadrotor control learning.
