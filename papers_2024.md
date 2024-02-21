@@ -16,3 +16,9 @@ These papers cought my attention in year 2024.
   * Foundation model for univariate probabilistic time series forecasting based on a decoder-only transformer architecture that uses lags as covariates.
 * [Learning to Fly in Seconds](https://paperswithcode.com/paper/learning-to-fly-in-seconds)
   * Asymmetric actor-critic-based architecture coupled with a highly reliable RL-based training paradigm for efficient end-to-end quadrotor control learning.
+* [Scalable Diffusion Models with Transformers](https://paperswithcode.com/paper/scalable-diffusion-models-with-transformers)
+  * Introducing Diffusion Transformers (DiT) by replacing U-Net backbone in Diffusion models with Visual Transformers.
+* [World Model on Million-Length Video And Language With RingAttention](https://paperswithcode.com/paper/world-model-on-million-length-video-and)
+  * Training LLMs on long videos and texts with high retrieval rate and 1M context length, introducing RingAttention.
+* [Revisiting Feature Prediction for Learning Visual Representations from Video](https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning)
+  * Self-supervised visual feature prediction on videos aims to improve real world universal understanding.
