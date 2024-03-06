@@ -76,7 +76,11 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Improve storage efficiency of OpenVDB with nerual network architecture.
 * [Can I use this publicly available dataset to build commercial AI software? -- A Case Study on Publicly Available Image Datasets](https://arxiv.org/abs/2111.02374)
   * Analysis of licenses of common public datasets and it's implication for commercial use.
-  
+
+* [Andrej Karpathy: A Recipe for Training Neural Networks](
+https://karpathy.github.io/2019/04/25/recipe/)
+  * Inspiring blog post about with self-explanatory title.
+
 ### Data processing
 
 * [Color-to-Grayscale: Does the Method Matter in Image Recognition?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3254613/)
