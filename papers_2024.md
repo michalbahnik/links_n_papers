@@ -22,3 +22,7 @@ These papers cought my attention in year 2024.
   * Training LLMs on long videos and texts with high retrieval rate and 1M context length, introducing RingAttention.
 * [Revisiting Feature Prediction for Learning Visual Representations from Video](https://paperswithcode.com/paper/revisiting-feature-prediction-for-learning)
   * Self-supervised visual feature prediction on videos aims to improve real world universal understanding.
+* [GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://arxiv.org/pdf/2403.03507v1.pdf)
+  * Innovative full-parameter but memory efficient training strategy for LLMs.
+* [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151)
+  * Open-source (MIT) object reconstruction from a single (!) image.
