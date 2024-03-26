@@ -26,3 +26,5 @@ These papers cought my attention in year 2024.
   * Innovative full-parameter but memory efficient training strategy for LLMs.
 * [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151)
   * Open-source (MIT) object reconstruction from a single (!) image.
+* [Evolutionary Optimization of Model Merging Recipes](https://paperswithcode.com/paper/evolutionary-optimization-of-model-merging)
+  * Effective cross-architecture LLM merging using evolutionary algorithms.
