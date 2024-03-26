@@ -28,3 +28,5 @@ These papers cought my attention in year 2024.
   * Open-source (MIT) object reconstruction from a single (!) image.
 * [Evolutionary Optimization of Model Merging Recipes](https://paperswithcode.com/paper/evolutionary-optimization-of-model-merging)
   * Effective cross-architecture LLM merging using evolutionary algorithms.
+* [FeatUp: A Model-Agnostic Framework for Features at Any Resolution](https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for)
+  * Fast model-agnostic drop-in visual features upsampler.
