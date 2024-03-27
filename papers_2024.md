@@ -30,3 +30,5 @@ These papers cought my attention in year 2024.
   * Effective cross-architecture LLM merging using evolutionary algorithms.
 * [FeatUp: A Model-Agnostic Framework for Features at Any Resolution](https://paperswithcode.com/paper/featup-a-model-agnostic-framework-for)
   * Fast model-agnostic drop-in visual features upsampler.
+* [LLM4Decompile: Decompiling Binary Code with Large Language Models](https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with)
+  * First open-source C code decompilation LLM and re-compilability and re-executability focused benchmark.
