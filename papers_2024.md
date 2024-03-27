@@ -32,3 +32,5 @@ These papers cought my attention in year 2024.
   * Fast model-agnostic drop-in visual features upsampler.
 * [LLM4Decompile: Decompiling Binary Code with Large Language Models](https://paperswithcode.com/paper/llm4decompile-decompiling-binary-code-with)
   * First open-source C code decompilation LLM and re-compilability and re-executability focused benchmark.
+* [EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models](https://paperswithcode.com/paper/easyjailbreak-a-unified-framework-for)
+  * Framework for automatic jailbraking of LLMs with nice overview of jailbraking methods.
