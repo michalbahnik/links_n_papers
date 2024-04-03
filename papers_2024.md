@@ -34,3 +34,5 @@ These papers cought my attention in year 2024.
   * First open-source C code decompilation LLM and re-compilability and re-executability focused benchmark.
 * [EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models](https://paperswithcode.com/paper/easyjailbreak-a-unified-framework-for)
   * Framework for automatic jailbraking of LLMs with nice overview of jailbraking methods.
+* [UniDepth: Universal Monocular Metric Depth Estimation](https://paperswithcode.com/paper/unidepth-universal-monocular-metric-depth)
+  * Universal monocular depth estimation with strong zero-shot capability.  
