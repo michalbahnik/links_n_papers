@@ -36,3 +36,5 @@ These papers cought my attention in year 2024.
   * Framework for automatic jailbraking of LLMs with nice overview of jailbraking methods.
 * [UniDepth: Universal Monocular Metric Depth Estimation](https://paperswithcode.com/paper/unidepth-universal-monocular-metric-depth)
   * Universal monocular depth estimation with strong zero-shot capability.  
+* [LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis](https://paperswithcode.com/paper/lidar4d-dynamic-neural-fields-for-novel-space)
+  * Novel method to reconstruct scenes from lidar data using Neural Radience Fields.
