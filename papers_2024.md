@@ -38,3 +38,5 @@ These papers cought my attention in year 2024.
   * Universal monocular depth estimation with strong zero-shot capability.  
 * [LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis](https://paperswithcode.com/paper/lidar4d-dynamic-neural-fields-for-novel-space)
   * Novel method to reconstruct scenes from lidar data using Neural Radience Fields.
+* [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://paperswithcode.com/paper/from-words-to-numbers-your-large-language)
+  * Paper analysis LLms in terms of regression capabilities and finds out, many models can beat algorithms like Random Forest.
