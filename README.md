@@ -104,6 +104,9 @@ https://karpathy.github.io/2019/04/25/recipe/)
 
  * [Free Programming Books](https://ebookfoundation.org/f-p-b.html)
    * Great collection of (4000+) free programming books and courses (2000+).
+  
+ * [AI Index Report](https://aiindex.stanford.edu/report/)
+   * Yearly Stanford University AI index report "Measuring trends in AI".
 
 ## Misc
 
