@@ -7,6 +7,9 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 ## Robotics
 
+* [FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent](https://arxiv.org/abs/2404.15259)
+  * End-to-end differentiable method that solves for precise camera poses, camera intrinsics, and per-frame dense depth of a video sequence. 
+
 ## Machine Learning
 
 ### Detection
