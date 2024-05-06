@@ -40,3 +40,5 @@ These papers cought my attention in year 2024.
   * Novel method to reconstruct scenes from lidar data using Neural Radience Fields.
 * [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://paperswithcode.com/paper/from-words-to-numbers-your-large-language)
   * Paper analysis LLms in terms of regression capabilities and finds out, many models can beat algorithms like Random Forest.
+* [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
+  * Interesting alternative to MLP: Move activation functions to edges and make them learnable, while dropping all linear weights.
