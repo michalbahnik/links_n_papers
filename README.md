@@ -37,14 +37,20 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Spatial and channel feature attention blocks added to improve convolutions by focusing on features.
 * [Mind the Pad -- CNNs can Develop Blind Spots](https://arxiv.org/abs/2010.02178)
   * A bit hidden, but very interesting paper pointing out overlooked blind spots emerging in training convolutional networks.
+* [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
+  * Rethinking ResNet architecture with knowledge emerging from transformer architectures.
 
 ### Transformers
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   * Novel attention based approach to replace convolutional and recurrent networks in NLP. 
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
   * Transformers applied to computer vision with aim to replace convolution.
+* [Per-Pixel Classification is Not All You Need for Semantic Segmentation](https://arxiv.org/abs/2107.06278)
+  * Unified model architecture for semantic and panoptic segmentation.
 * [FlashAttention-2: Faster Attention with Better Parallelism](https://tridao.me/publications/flash2/flash2.pdf)
   * Introduces improved FlashAttention by improving both architecture, but also low-level GPU operations to gain performance.
+* [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
+  * Teacher-student based transformer (DeiT) architecture with many nice tricks to improve training efficiency.
  
 ### LLMs
 
