@@ -10,3 +10,5 @@ These papers cought my attention in year 2023.
   * DPO aims to solve RLHF problem with only a simple classification loss.
 * [ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](https://arxiv.org/abs/2305.11172v1)
   * General representation model with competitive performance on multiple ML tasks (vision, text, audio combinations).
+* [Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution](https://arxiv.org/abs/2307.06304)
+  * Adressing fixed aspect ratio and resolution problem of previous transformer architectures.
