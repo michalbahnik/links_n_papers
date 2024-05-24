@@ -56,6 +56,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 
 * [LLM Visualization](https://bbycroft.net/llm)
   * Very illustrative interactive GPT LLM visualisation.
+* [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+  * Interpreting high level features (multimodal, language agnostic) in LLM autopencoder, even safety relevant.
   
 ### Data generation
 
