@@ -42,3 +42,7 @@ These papers cought my attention in year 2024.
   * Paper analysis LLms in terms of regression capabilities and finds out, many models can beat algorithms like Random Forest.
 * [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
   * Interesting alternative to MLP: Move activation functions to edges and make them learnable, while dropping all linear weights.
+* [Depth Anything V2](https://paperswithcode.com/paper/depth-anything-v2)
+  * Efficient foundation monocular depth estimation discriminative model learnt with teacher-student paradigm and synthetic data. Also introduces DA-2K dataset.
+* [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://paperswithcode.com/paper/deepseek-coder-v2-breaking-the-barrier-of)
+  * Open-source model to surpass closed-source models in coding and math.
