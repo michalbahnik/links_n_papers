@@ -121,8 +121,13 @@ https://karpathy.github.io/2019/04/25/recipe/)
 
 ## Misc
 
+## Cyber security
+
 * [A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards](https://arxiv.org/abs/2308.01074)
   * Eavesdropping your computer keyboard with smartphone or from videocall is possible!
+ 
+* [Deep-tempest: Using Deep Learning to Eavesdrop on HDMI from its Unintended Electromagnetic Emanations](https://github.com/emidan19/deep-tempest?tab=readme-ov-file)
+  * Pushing forward gr-tempest effort of intercepting HDMI image transfer via electromagnetic emanations.
 
 ## Other links
 
