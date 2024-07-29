@@ -46,3 +46,7 @@ These papers cought my attention in year 2024.
   * Efficient foundation monocular depth estimation discriminative model learnt with teacher-student paradigm and synthetic data. Also introduces DA-2K dataset.
 * [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://paperswithcode.com/paper/deepseek-coder-v2-breaking-the-barrier-of)
   * Open-source model to surpass closed-source models in coding and math.
+* [MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens](https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data)
+  * Large, multimodal open-source dataset with diverse data sources.
+* [Neural General Circulation Models for Weather and Climate]([https://github.com/google-research/neuralgcm](https://paperswithcode.com/paper/neural-general-circulation-models))
+  * Physics-based weather circulation simulators combining GCMs with ML components for efficient weather forcasting.
