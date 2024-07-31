@@ -12,3 +12,5 @@ These papers cought my attention in year 2023.
   * General representation model with competitive performance on multiple ML tasks (vision, text, audio combinations).
 * [Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution](https://arxiv.org/abs/2307.06304)
   * Adressing fixed aspect ratio and resolution problem of previous transformer architectures.
+* [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+  * MAEs show strong capability to efficiently generalise vision concepts.
