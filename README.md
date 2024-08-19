@@ -71,7 +71,7 @@ Collection of interesting links and papers on several topics like Robotics, Mach
 * [ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters](https://arxiv.org/abs/2205.01906)
   * Control policy for athletics learning improved by combining adversal imitation with unsupervised reinforcement learning.
 
-### Miscellaneous
+### Deep learning
 
 * [Visualizing and Understanding Convolutional Networks (Zeiler, Fergus)](https://arxiv.org/abs/1311.2901)
   * Novel article on visualisation CNN's feature layers in order to get deeper understanding.
@@ -87,10 +87,11 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Improve storage efficiency of OpenVDB with nerual network architecture.
 * [Can I use this publicly available dataset to build commercial AI software? -- A Case Study on Publicly Available Image Datasets](https://arxiv.org/abs/2111.02374)
   * Analysis of licenses of common public datasets and it's implication for commercial use.
-
 * [Andrej Karpathy: A Recipe for Training Neural Networks](
 https://karpathy.github.io/2019/04/25/recipe/)
   * Inspiring blog post about with self-explanatory title.
+* [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482v3)
+  * Mixing model weights (in the soup) from grid search to improve performance.
 
 ### Data processing
 
