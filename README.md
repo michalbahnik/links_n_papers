@@ -119,6 +119,9 @@ https://karpathy.github.io/2019/04/25/recipe/)
   
  * [AI Index Report](https://aiindex.stanford.edu/report/)
    * Yearly Stanford University AI index report "Measuring trends in AI".
+  
+ * [Master RAG](https://www.rungalileo.io/mastering-rag))
+   * A Developer's Guide to Enterprise-Grade RAG Systems from Galileo.
 
 ## Misc
 
