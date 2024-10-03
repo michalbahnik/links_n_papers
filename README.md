@@ -51,6 +51,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Introduces improved FlashAttention by improving both architecture, but also low-level GPU operations to gain performance.
 * [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
   * Teacher-student based transformer (DeiT) architecture with many nice tricks to improve training efficiency.
+* [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models](https://arxiv.org/abs/2409.17146)
+  * SOTA performance open weights&data multimodal models.
  
 ### LLMs
 
