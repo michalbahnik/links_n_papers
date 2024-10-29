@@ -48,5 +48,7 @@ These papers cought my attention in year 2024.
   * Open-source model to surpass closed-source models in coding and math.
 * [MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens](https://paperswithcode.com/paper/mint-1t-scaling-open-source-multimodal-data)
   * Large, multimodal open-source dataset with diverse data sources.
-* [Neural General Circulation Models for Weather and Climate]([https://github.com/google-research/neuralgcm](https://paperswithcode.com/paper/neural-general-circulation-models))
+* [Neural General Circulation Models for Weather and Climate]([https://github.com/google-research/neuralgcm](https://paperswithcode.com/paper/neural-general-circulation-models)
   * Physics-based weather circulation simulators combining GCMs with ML components for efficient weather forcasting.
+* [BitNet: Scaling 1-bit Transformers for Large Language Models](https://www.microsoft.com/en-us/research/publication/bitnet-scaling-1-bit-transformers-for-large-language-models/)
+  * Scaling transformers to 1.58 bit (-1, 0, 1) to improve efficiency and power consumption with minimal accuracy loss.
