@@ -127,6 +127,9 @@ https://karpathy.github.io/2019/04/25/recipe/)
 
 ## Misc
 
+* [Awesome Foundation Models](https://github.com/uncbiag/Awesome-Foundation-Models)
+  * List of large scale pretrained foundation models.
+
 ## Cyber security
 
 * [A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards](https://arxiv.org/abs/2308.01074)
