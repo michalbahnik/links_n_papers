@@ -60,6 +60,11 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Very illustrative interactive GPT LLM visualisation.
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
   * Interpreting high level features (multimodal, language agnostic) in LLM autopencoder, even safety relevant.
+ 
+### RAG
+
+* [Language agents achieve superhuman synthesis of scientific knowledge](https://paperswithcode.com/paper/2409-13740)
+  * Scientific knoledge synthesis RAG agent tool supporting local models (version 2). Also introduces LitQA2 benchmark.
   
 ### Data generation
 
