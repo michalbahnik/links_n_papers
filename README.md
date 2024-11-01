@@ -134,6 +134,8 @@ https://karpathy.github.io/2019/04/25/recipe/)
 
 * [Awesome Foundation Models](https://github.com/uncbiag/Awesome-Foundation-Models)
   * List of large scale pretrained foundation models.
+* [Blendify](https://github.com/ptrvilya/blendify)
+  * Lightweight Python framework that provides a high-level API for creating and rendering scenes with Blender.
 
 ## Cyber security
 
