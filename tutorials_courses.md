@@ -13,3 +13,8 @@ Simply put, but practical and usefull collection of foundation courses on ML.
 
 ### [Hands-on Reinforced Learning](https://github.com/Paulescu/hands-on-rl)
 Very practical hands-on course on Reinforced Learning with little prior ML knowledge required.
+
+## Tools
+
+### [LLM visualisation](https://bbycroft.net/llm)
+Very nice visualisation of a LLM (specifically GPTs) with architecture and data flow explanation.
