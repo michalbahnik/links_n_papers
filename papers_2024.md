@@ -54,3 +54,5 @@ These papers cought my attention in year 2024.
   * Scaling transformers to 1.58 bit (-1, 0, 1) to improve efficiency and power consumption with minimal accuracy loss.
 * [ADOPT: Modified Adam Can Converge with Any β2 with the Optimal Rate](https://arxiv.org/abs/2411.02853)
   * Adaptive gradient method achieving the optimal convergence rate independently on β2 and showing superior performance on different tasks.
+* [Cosmos Tokenizer: A suite of image and video neural tokenizers](https://github.com/NVIDIA/Cosmos-Tokenizer)
+  * SOTA visual data tokenizers with open license.
