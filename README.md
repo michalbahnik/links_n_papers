@@ -99,6 +99,8 @@ https://karpathy.github.io/2019/04/25/recipe/)
   * Inspiring blog post about with self-explanatory title.
 * [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482v3)
   * Mixing model weights (in the soup) from grid search to improve performance.
+* [Robust fine-tuning of zero-shot models](https://arxiv.org/abs/2109.01903)
+  * Improving model robustness while fine-tuning by simple ensembling the weights of the zero-shot and fine-tuned models (WiSE-FT).
 
 ### Data processing
 
