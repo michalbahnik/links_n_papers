@@ -14,3 +14,5 @@ These papers cought my attention in year 2023.
   * Adressing fixed aspect ratio and resolution problem of previous transformer architectures.
 * [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
   * MAEs show strong capability to efficiently generalise vision concepts.
+* [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/abs/2211.05778v4)
+  * Large-scale CNN-based foundation model with deformable convolutions competing with transformers.
