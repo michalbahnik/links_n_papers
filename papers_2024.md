@@ -56,3 +56,7 @@ These papers cought my attention in year 2024.
   * Adaptive gradient method achieving the optimal convergence rate independently on β2 and showing superior performance on different tasks.
 * [Cosmos Tokenizer: A suite of image and video neural tokenizers](https://github.com/NVIDIA/Cosmos-Tokenizer)
   * SOTA visual data tokenizers with open license.
+* [SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory](https://github.com/yangchris11/samurai)
+  * SOTA zero-shot object tracking based on SAM 2.
+* [Cautious Optimizers: Improving Training with One Line of Code](https://arxiv.org/abs/2411.16085v1)
+  * Simple, but effective momentum based optimiser modification to improve training (convergence) speed.
