@@ -135,6 +135,11 @@ https://karpathy.github.io/2019/04/25/recipe/)
   
  * [Master RAG](https://www.rungalileo.io/mastering-rag))
    * A Developer's Guide to Enterprise-Grade RAG Systems from Galileo.
+  
+## Tools & Frameworks
+
+* [Genesis](https://genesis-embodied-ai.github.io)
+  * Open-source physics simulation platform designed for general purpose Robotics, Embodied AI, & Physical AI applications.
 
 ## Misc
 
