@@ -62,6 +62,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Interpreting high level features (multimodal, language agnostic) in LLM autopencoder, even safety relevant.
 * [Mixtral of Experts (2024)](https://arxiv.org/abs/2401.04088)
   * Mixture-of-experts paradigm for effective inference surpassing larger models in both speed and performance.
+* [NVLM: Open Frontier-Class Multimodal LLMs](https://arxiv.org/abs/2409.11402)
+  * Comparison of multimodal approaches, introduction of novel hybrid approach.
  
 ### RAG
 
