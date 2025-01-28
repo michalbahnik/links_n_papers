@@ -60,6 +60,8 @@ Collection of interesting links and papers on several topics like Robotics, Mach
   * Very illustrative interactive GPT LLM visualisation.
 * [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
   * Interpreting high level features (multimodal, language agnostic) in LLM autopencoder, even safety relevant.
+* [Mixtral of Experts (2024)](https://arxiv.org/abs/2401.04088)
+  * Mixture-of-experts paradigm for effective inference surpassing larger models in both speed and performance.
  
 ### RAG
 
