@@ -8,3 +8,5 @@ These papers cought my attention in year 2025:
   * Dynamic Tanh: Drop-in replacement for normalisation layer in transformers with matching or exceeding performance.
 * [FoundationStereo: Zero-Shot Stereo Matching](https://arxiv.org/abs/2501.09898)
   * Strong zero-shot stereo matching foundation model. 
+* [SuperARC: A Test for General and Super Intelligence Based on First Principles of Recursion Theory and Algorithmic Probability](https://arxiv.org/abs/2503.16743)
+  * Good introduction to measuring "intelligence" of AI, introduces test challenges using metrics based on model abstraction and optimal Bayesian inference, not just compression.
