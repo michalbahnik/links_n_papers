@@ -10,3 +10,5 @@ These papers cought my attention in year 2025:
   * Strong zero-shot stereo matching foundation model. 
 * [SuperARC: A Test for General and Super Intelligence Based on First Principles of Recursion Theory and Algorithmic Probability](https://arxiv.org/abs/2503.16743)
   * Good introduction to measuring "intelligence" of AI, introduces test challenges using metrics based on model abstraction and optimal Bayesian inference, not just compression.
+* [Open Deep Search: Democratizing Search with Open-source Reasoning Agents](https://arxiv.org/abs/2503.20201v1)
+  * Augment the reasoning capabilities with with reasoning agents to match SotA Deep Reasoning models.
